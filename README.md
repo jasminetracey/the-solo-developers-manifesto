@@ -150,7 +150,7 @@ You should give equal importance to each. Some people work whole day without giv
 **Work Time:**
 
 - This is the time you work
-- 8-9 Hours/Daily
+- 9 Hours/Daily(incl breaks) (Note down work starting time, to track how many hrs worked)
 - Prefer working after waking up
 - 1-day rest after every iteration/sprint/release
 - Take 15-30min nap 6-7 hrs after waking up (Increases Productivity)
@@ -161,6 +161,7 @@ You should give equal importance to each. Some people work whole day without giv
 - This is the time you give to yourself, for example looking your health, clothes, hygiene, ID renewal etc (For example torn shoes, repair it or get it repaired from cobbler or buy new one)
 - Exercise weekly twice (e.g.: Rope skipping 10mins for healthy heart)(Sat,Tue Fixed Date)
 - Be physically active by performing household chores
+- Eat moderately (avoids laziness)
 - Start working on tasks in here after work time
 
 **Family/Social Time:**
